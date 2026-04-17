@@ -8,7 +8,7 @@ const pilares = [
     num: '01',
     titulo: 'Análise Corporal',
     texto:
-      'Seu corpo gravou tudo o que você viveu. Cada tensão, cada trauma, cada adaptação. Na Análise Corporal, leio, compreendo esses registros para entender o que moldou seus recursos e seus limites hoje.',
+      'Seu corpo gravou tudo o que você viveu. Cada tensão, cada trauma, cada adaptação. Na Análise Corporal, compreendo esses registros para entender o que moldou seus recursos e seus limites hoje.',
   },
   {
     num: '02',
@@ -22,7 +22,7 @@ const pilares = [
     texto:
       'Seu terreno biológico é o solo onde sua saúde nasce ou morre. Pela leitura da íris, identifico a raiz dos desequilíbrios, carências nutricionais e repetições de sintomas. Antes mesmo que se tornem doenças. Possibilitando compreender o que os diagnósticos sem causa aparente e exames não mostram.',
     extra:
-      'Não é adivinhação. É leitura técnica e científica do terreno que sustenta (ou sabota) cada função do seu corpo. Quando o terreno está inflamado, em desequilíbrio, nenhum tratamento de superfície vai funcionar. Primeiro, preparamos o solo.',
+      'Não é adivinhação. É leitura técnica e científica do terreno que sustenta (ou sabota) cada função do seu corpo. Quando o terreno está em desequilíbrio, nenhum tratamento de superfície vai funcionar. Primeiro, preparamos o solo.',
   },
 ]
 
@@ -55,7 +55,7 @@ export default function Method() {
 
         <FadeIn delay={0.1}>
           <p className="font-sans text-off-white/75 text-base md:text-lg leading-relaxed max-w-2xl mb-16">
-            Eu não trato sintomas isolados. Leio, compreendo e integro o que seu corpo, sua história familiar e seu terreno biológico estão dizendo ao mesmo tempo. Porque a saúde feminina só se regenera quando essas três camadas se encontram.
+            Eu não trato sintomas isolados. Compreendo e integro o que seu corpo, sua história familiar e seu terreno biológico estão dizendo ao mesmo tempo. Porque a saúde feminina só se regenera quando essas três camadas se encontram.
           </p>
         </FadeIn>
 
